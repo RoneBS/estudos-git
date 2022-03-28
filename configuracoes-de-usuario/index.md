@@ -25,6 +25,8 @@ OBS: O git por padrao usa o vim como editor.
 
 Voce pode verificar as informacoes utilizando os mesmos comandos sem a flag **--global**:
 
+### Exemplo:
+
 ```bash
   git config user.name
 ```
