@@ -1,6 +1,6 @@
 # Estudos Git
 
-![git](https://imgur.com/nVwdfZv)
+[Imgur](https://i.imgur.com/nVwdfZv.png?1)
 
 Este repositorio destina-se ao estudo dos comandos e praticas bases do git e github.
 
