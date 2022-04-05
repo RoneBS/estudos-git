@@ -1,6 +1,6 @@
 # Clonando um Repositorio do GitHub
 
-Ao longo dos seus estudos com programacao, voce pode se deparar com um repositorio com conteudo muito relevante pra voce, e este repositorio pode ser baixado para sua maquina. A acao a ser feita e clonar este repositorio para a sua maquina atraves do comando **_git clone_**:
+Ao longo dos seus estudos com programacao, voce pode se deparar com a necessidade de baixar um repositorio remoto seu, no caso de algum problema com a sua maquina ou alguma alteracao que quebrou o projeto no seu repositorio local, assim voce pode baixar a versao estavel que esta no seu repositorio remoto. A acao a ser feita e clonar este repositorio para a sua maquina atraves do comando **_git clone_**:
 
 ```bash
   git clone https://github.com/seu-usurario/nome-do-projeto.git
